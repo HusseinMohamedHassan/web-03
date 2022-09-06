@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(219, 219, 219, 0.178);
+}
+.i{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 30px;
+   color: rgb(0, 96, 185);
+}
+.ii{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 30px;
+   color: rgb(241, 32, 49);
+}
+
+
+.cover1{
+    display: block;
+    background-attachment: fixed;
+    background-image: url(../img/spaghetti-with-pesto-prawns-served-plate.jpg);
+    width: 100%;
+    height: 300px;
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
+
+
+.cover2{
+    display: block;
+    background-attachment: fixed;
+    background-image: url(../img/top-view-fast-food-mix-hamburger-doner-sandwich-chicken-nuggets-rice-vegetable-salad-chicken-sticks-caesar-salad-mushrooms-pizza-chicken-ragout-french-fries-mayo.jpg);
+    width: 100%;
+    height: 300px;
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
